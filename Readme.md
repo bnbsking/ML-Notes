@@ -1,31 +1,32 @@
-array_tensor
+### 0_gpus
+
+### 1_operations*
     + np, torch, einops
+    + pandas
 
-datasets
-    + Dataset vs TensorDataset vs ImageFolder
-    + collate_fn
-    + CIFAR10
-
-gpus
-
-input_outputs
+### 2_input_outputs
     + img w/r: cv2, mpl, PIL
     + cfg w/r: json, yaml, pkl
 
-img_transforms
-    + cv2
-    + torch transform
+### 3_datasets
+    + Dataset vs TensorDataset vs ImageFolder
+    + collate_fn
+    + CIFAR10
+    + opencv_basic
+    + torchvision.transforms
 
-losses
+### 4_model*
+    + 
+
+### 5_losses
     + theory
     + torch CE, BCE x reduction / weights / soft-labeling
 
-metrics
+### 6_optim*
     + 
 
-mpl_sns
+### 7_metrics*
+    + 
+
+### 8_plotting*
     + confusion matrix
-
-optimizers
-
-pandas
