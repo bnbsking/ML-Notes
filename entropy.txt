@@ -1,3 +1,0 @@
-https://github.com/bnbsking/Deprecated_ML/blob/master/EntropyCross.txt
-
-https://github.com/bnbsking/Deprecated_ML/blob/master/Entropy.ipynb
