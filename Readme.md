@@ -16,17 +16,19 @@
     + torchvision.transforms
 
 ### 4_model*
-    + 
+    + resnet50, denseet121, vit_b_16
 
 ### 5_losses
     + theory
     + torch CE, BCE x reduction / weights / soft-labeling
 
 ### 6_optim*
-    + 
+    + adam+scheduler
+    + adamw
 
 ### 7_metrics*
-    + 
+    + classification metrics
 
 ### 8_plotting*
     + confusion matrix
+    + kde plot
